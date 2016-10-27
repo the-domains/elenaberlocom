@@ -1,0 +1,32 @@
+typography_spectrum: 0.7813643182574375
+color:
+  brandStrength: 0.7280727769873372
+  lightness: 0.7142006824566697
+  saturation: 0.19804231730796915
+  rhythmicContrast: 0.2769989517635417
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+github: true
+layout_spectrum: 0.590037619117924
+analytics:
+  google: UA-634542-84
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3368b733-2a6f-48f2-a4b2-de68b9bee002.jpg
+name: elenaberlo.com
+navigation:
+  - name: Shop
+    url: 'https://www.onceuponapaper.net/collections/all-products'
+    type: external
+  - name: Say Hello
+    id: b31709fa-ce91-4dce-a7ed-30c61964a56b
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/71b57f3a-2e32-4eb4-ae62-eaee4378cad4.jpg
+title: Elena Berlo
+content: []
+description: Watercolor Ketubah & Paintings
+purpose: []
