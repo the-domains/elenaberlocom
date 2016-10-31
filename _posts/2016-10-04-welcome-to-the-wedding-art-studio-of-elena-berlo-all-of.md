@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-31T08:23:23.032Z'
+datePublished: '2016-10-31T08:24:16.032Z'
 sourcePath: _posts/2016-10-04-welcome-to-the-wedding-art-studio-of-elena-berlo-all-of.md
-inFeed: true
+inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-31T08:23:22.201Z'
+dateModified: '2016-10-31T08:24:15.361Z'
 title: WELCOME TO THE ART STUDIO OF ELENA BERLO
 publisher: {}
 description: >-
@@ -15,7 +15,7 @@ description: >-
   mainly watercolor and gouache. - Elena Berlo
 starred: false
 url: welcome-to-the-wedding-art-studio-of-elena-berlo-all-of/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6acc858c-b63f-411d-8dfe-acb617354366.jpg)
