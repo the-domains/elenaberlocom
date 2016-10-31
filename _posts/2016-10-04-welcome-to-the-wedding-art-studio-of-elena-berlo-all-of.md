@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-31T08:17:54.925Z'
+datePublished: '2016-10-31T08:23:23.032Z'
 sourcePath: _posts/2016-10-04-welcome-to-the-wedding-art-studio-of-elena-berlo-all-of.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-31T08:17:54.275Z'
+dateModified: '2016-10-31T08:23:22.201Z'
 title: WELCOME TO THE ART STUDIO OF ELENA BERLO
 publisher: {}
 description: >-
@@ -30,7 +30,7 @@ Do you have a question? Ask here and I will return your email in less than 48hr.
 
 Or subscribe to my posts:
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx9j01PAjEURf9K0xUkTBuEAUKAlSvDwo0r4-JN-zp20i_7WlEJ_90REhM3bs-9yT13RyrbVFj5TLjnBT-KHOAdbpQzymrPpaSFAA9fMcCJhIpe6ngKLoIm4cE69Wp9uvKBJNk-1NSYmD3JFFNNEn2HWgzEmYYCjY5DbFQMxvZ7XgkfHdjwQDFsWckVZ8zSPXa13zIDjpAfdvLmc9j9a3vI-FZtxskz9-PEX5PjaIuZv8yYqUEVG8PkOGVndhRUIJfJmXdA-JQd33KvRKU74SyVxkOAHn_O8Rmv1eox17o1uFYrs1y3rdoYtYCl2mywHSvu2jDrDtp5N8cVv0zZZfr74BvuEIAv" height="350" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx9j01PAjEURf9K0xUkTBuEAUKAlSvDwo0r4-JN-zp20i_7WlEJ_90REhM3bs-9yT13RyrbVFj5TLjnBT-KHOAdbpQzymrPpaSFAA9fMcCJhIpe6ngKLoIm4cE69Wp9uvKBJNk-1NSYmD3JFFNNEn2HWgzEmYYCjY5DbFQMxvZ7XgkfHdjwQDFsWckVZ8zSPXa13zIDjpAfdvLmc9j9a3vI-FZtxskz9-PEX5PjaIuZv8yYqUEVG8PkOGVndhRUIJfJmXdA-JQd33KvRKU74SyVxkOAHn_O8Rmv1eox17o1uFYrs1y3rdoYtYCl2mywHSvu2jDrDtp5N8cVv0zZZfr74BvuEIAv" height="244" style=""></iframe>
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/10f392d5-a445-4e10-8437-985fe5ae3124.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b27eb62d-c116-48fb-8024-ec93e83c58c5.jpg)
