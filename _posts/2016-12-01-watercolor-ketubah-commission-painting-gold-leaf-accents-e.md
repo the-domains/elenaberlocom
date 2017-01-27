@@ -1,19 +1,19 @@
 ---
-datePublished: '2016-12-01T15:47:58.885Z'
+datePublished: '2017-01-27T21:59:37.288Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
-datePublishedOriginal: '2016-12-01T15:47:58.885Z'
-dateModified: '2016-12-01T15:46:08.299Z'
+dateModified: '2017-01-27T21:59:36.628Z'
 title: >-
   Watercolor KETUBAH Commission Painting - Gold Leaf accents Entangled Trees -
   FOUR SEASONS
 publisher: {}
 description: '- by Elena Berlo'
-starred: false
 sourcePath: >-
   _posts/2016-12-01-watercolor-ketubah-commission-painting-gold-leaf-accents-e.md
+starred: false
+datePublishedOriginal: '2016-12-01T15:47:58.885Z'
 url: watercolor-ketubah-commission-painting-gold-leaf-accents-e/index.html
 _type: Article
 
@@ -35,6 +35,9 @@ $900
 ♥ Personalization: names, date, location, layout, colours  
 ♥ Sample of paper for testing your favorite ink on
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/31959821-a366-4412-a7f0-47c9a35a1ecb.jpg)
+
+---
+
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/303b0f3d-91fe-48bb-a2ed-3f93ac016179.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/154eab42-47d0-4bbd-a58b-1eaf77aff2b6.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/532de7fe-484f-4ce6-a704-50cf7ba26b58.jpg)
@@ -45,5 +48,3 @@ $900
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/74deaf58-0ba3-430f-872d-b36304b8bc93.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d46abf8-7de6-4d05-901b-89ba06438973.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ea818bd-b60e-4ead-9691-a69c40fc2a69.jpg)
-
----
