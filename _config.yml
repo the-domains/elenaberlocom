@@ -19,7 +19,7 @@ author:
   email: ''
   url: ''
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3368b733-2a6f-48f2-a4b2-de68b9bee002.jpg
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac9845c9-407c-42c0-96a0-6fe22929dffe.png
 name: elenaberlo.com
 url: 'http://elenaberlo.com'
 navigation:
@@ -30,7 +30,7 @@ navigation:
     id: b31709fa-ce91-4dce-a7ed-30c61964a56b
     type: content
 favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/71b57f3a-2e32-4eb4-ae62-eaee4378cad4.jpg
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f21a7e48-2b99-4950-9b08-6eadc760f4c5.png
 title: Elena Berlo
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
@@ -54,7 +54,6 @@ content:
         domain: youtu.be
       keywords: []
       description: appling technique of the silver leaf
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       '@type': VideoObject
       app_links: []
       '@context': 'http://schema.org'
