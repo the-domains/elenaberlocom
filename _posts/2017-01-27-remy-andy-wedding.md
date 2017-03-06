@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Painted Woodcut Ketubah and Wedding Guestbook by Elena Berlo and
   OnceUponaPaper
-dateModified: '2017-03-03T11:45:08.221Z'
-datePublished: '2017-03-03T11:47:24.235Z'
+dateModified: '2017-03-06T12:24:35.158Z'
+datePublished: '2017-03-06T12:24:35.891Z'
 title: Remy & Andy's wedding at The Phoenician
 author: []
 publisher: {}
@@ -24,6 +24,8 @@ _type: Article
 Painted Woodcut Ketubah and Wedding Guestbook by Elena Berlo and [OnceUponaPaper][0]
 
 As seen on [BRIDES][1]
+
+---
 
 ---
 
