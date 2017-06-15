@@ -1,4 +1,3 @@
-layout_spectrum: 0.5557614045263739
 typography_spectrum: 0.7820331336291378
 color:
   brandStrength: 0.7297690609209977
@@ -12,6 +11,7 @@ color:
     - '#4D4D4D'
     - '#333333'
 github: true
+layout_spectrum: 0.5557614045263739
 analytics:
   google: UA-634542-84
 author:
@@ -29,6 +29,9 @@ navigation:
   - name: Say Hello
     id: b31709fa-ce91-4dce-a7ed-30c61964a56b
     type: content
+  - name: Ketubah
+    url: 'https://www.onceuponapaper.net/pages/ketubah'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/f21a7e48-2b99-4950-9b08-6eadc760f4c5.png
 title: Elena Berlo
@@ -42,24 +45,21 @@ content:
       allowfullscreen></iframe>
     src: !<tag:yaml.org,2002:js/undefined> ''
     metadata:
-      author:
-        - name: OnceUponaPaper
-          url: 'https://www.youtube.com/channel/UCbb3FIXi3Se5GBbsYWxUDKw'
-          avatar: {}
-      related: []
-      publisher:
-        url: 'https://www.youtube.com/'
-        name: YouTube
-        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-        domain: youtu.be
+      datePublished: null
+      isBasedOnUrl: 'https://youtu.be/3rTjFtijvZs?t=15'
       keywords:
         - ketubah
         - silver leaf
         - gold leaf
         - ketubah painting
         - calligraphy
-      description: appling technique of the silver or gold leaf
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      related: []
+      author:
+        - name: OnceUponaPaper
+          url: 'https://www.youtube.com/channel/UCbb3FIXi3Se5GBbsYWxUDKw'
+          avatar: {}
+      '@context': 'http://schema.org'
+      title: Real silver leaf calligraphy for original painted ketubah art - part 2
       '@type': VideoObject
       app_links:
         - url: 'vnd.youtube://www.youtube.com/watch?v=3rTjFtijvZs&feature=applinks'
@@ -98,10 +98,12 @@ content:
           package: '544007664'
           namespace: google
           type: ios
-      '@context': 'http://schema.org'
-      isBasedOnUrl: 'https://youtu.be/3rTjFtijvZs?t=15'
-      title: Real silver leaf calligraphy for original painted ketubah art - part 2
-      datePublished: null
+      publisher:
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+        domain: youtu.be
+      description: appling technique of the silver or gold leaf
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
