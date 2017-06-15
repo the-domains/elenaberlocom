@@ -32,6 +32,9 @@ navigation:
   - name: Ketubah
     url: 'https://www.onceuponapaper.net/pages/ketubah'
     type: external
+  - name: Watercolor & Gouache Paintings
+    url: 'https://www.onceuponapaper.net/collections/watercolor-paintings'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/f21a7e48-2b99-4950-9b08-6eadc760f4c5.png
 title: Elena Berlo
