@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: As seen on
-dateModified: '2017-07-07T20:51:06.063Z'
-datePublished: '2017-07-07T20:51:06.630Z'
+dateModified: '2017-07-07T20:53:19.961Z'
+datePublished: '2017-07-07T20:53:20.762Z'
 title: ''
 author: []
 publisher: {}
@@ -17,15 +17,4 @@ _type: Article
 ---
 As seen on
 
-    <div style="text-align: center;"></div>
-    <div style="text-align: center;"><a href="https://www.theknot.com/real-weddings/a-rustic-romantic-wedding-in-savannah-ga-album" target="_blank" rel="noopener noreferrer"><img src="https://cdn.shopify.com/s/files/1/0507/7041/files/badge-featured-on-the-knot_small.png?v=1474730506" alt="" /></a></div>
-    <div style="text-align: center;"><a href="http://florenceandisabelle.com/once-upon-a-paper/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.shopify.com/s/files/1/0507/7041/files/as-seen-florenceandisabelle_2016_small.png?v=1474730521" alt="" /></a></div>
-    <div style="text-align: center;"><a href="http://www.brides.com/blogs/aisle-say/2015/01/pretty-marriage-certificates-ketubahs.html" target="_blank" rel="noopener noreferrer"><img src="https://cdn.shopify.com/s/files/1/0507/7041/files/Badge2_FeaturedOn_small.png?v=1474729281" alt="" /></a></div>
-    <div style="text-align: center;"><a href="https://www.stylemepretty.com/2017/01/09/skyline-wedding/" target="_blank" rel="noopener noreferrer"><img alt="" src="https://cdn.shopify.com/s/files/1/0507/7041/files/as-seen-blue_2016_small.png?v=1474721532" /></a></div>
-    <div style="text-align: center;"></div>
-    <div style="text-align: center;"></div>
-    <div style="text-align: center;"><img src="https://cdn.shopify.com/s/files/1/0507/7041/files/Badge_694d3c89-2b3c-443b-b94a-40d3917a5eb3_small.png?v=1475737203" alt="" /></div>
-    <div style="text-align: center;"><a href="http://emmalinebride.com/reception/watercolor-guest-book-alternative/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.shopify.com/s/files/1/0507/7041/files/featured-artist-2017_small.png?v=1498821283" alt="" /></a></div>
-    <div style="text-align: center;"><img alt="" src="https://cdn.shopify.com/s/files/1/0507/7041/files/OSBP-Badge-Round_small.png?v=1475748006" style="float: none;" /></div>
-    <div style="text-align: center;"><img src="https://cdn.shopify.com/s/files/1/0507/7041/files/as-seen-condenast_2015_small.png?v=1497953215" alt="" /></div>
-    <div style="text-align: center;"></div>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJy9lE1u2zAQRvc9haA9Tf1GVmKnQBbdpmgPYIyosUSYGgokZde370h1WzRJF06CLAQIFEg9vvlmNq0-Rj6cDW7jgD-CAKM7uo0UUkB3F99vIOod7rdxH8Lob6U8nU6r0OOBbFgpO0iHYMQJ21ZT5yUIN_mglXB2AJpfLp-EJuHhCETQiw74P800xFEA12HYxrvGAB3iyKHZxmTtiIQuIsu_RufQMYgeusg79ZdEtbTyvR31_ryQeLnXBr1MZVImlaySIr2sNNB2KPYIYXLYCkuCbyDmK-z8AMasRuo-H7dpURVVzptv4ggMU8WRvN9I4Ic13X_aXCWLCfeGL0AKgVrtoUFjcCG1vCamkTlAjDCikx9lArzwiCReINtlSXrzoo8sfScfc3Yap1v0C2Zj7BwZ7Q1yNs6SAUqZpHJ0GMJZDOCcBi6cQhf0XisI6MUBw9RA71d9GMxHaXuYA5TtvlwS9EjPPWV1tn4XT7-bbNkw4C8ZCx_7qWY_SS394Ww04e_uuj4_F843xqgx0_9yk6Vlnl0t4q012t3URZurdS2yJleiKPJGNHUBokjavE4rKLHJn8KWVV5lSf5P8V4XcBz4ZK7LEvLLeFQ4Bm1Jnji-TlluPNFN6INorD3wibxKEPQRP2wI_BmEwH3FIHOunjip1-sszdb5awP99og9fn_4Kpaaim92ovZ50Yp1Mk_qCwdPNAi37Ijw7qoSvsM0VZZaJPBh7oXyqcqq5k5Iy-fx-glim37u" height="120" style=""></iframe>
