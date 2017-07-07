@@ -1,17 +1,18 @@
 ---
 inFeed: true
 description: As seen on
-dateModified: '2017-07-07T20:47:05.165Z'
-datePublished: '2017-07-07T20:47:05.768Z'
+dateModified: '2017-07-07T20:48:27.045Z'
+datePublished: '2017-07-07T20:48:27.782Z'
 title: ''
 author: []
 publisher: {}
 via: {}
-isBasedOnUrl: 'https://www.onceuponapaper.net/pages/as-seen-in'
+sourcePath: _posts/2017-07-07-featured-on.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-07-07T20:47:05.768Z'
-sourcePath: _posts/2017-07-07-featured-on.md
-_type: MediaObject
+url: featured-on/index.html
+_type: Article
 
 ---
 As seen on
