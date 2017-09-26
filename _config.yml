@@ -56,7 +56,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -71,4 +70,4 @@ purpose:
     label: convo me for a commission
   - type: external
     url: 'https://www.onceuponapaper.net/'
-    label: or visit my shop @OnceUponaPaper
+    label: visit my shop @OnceUponaPaper
