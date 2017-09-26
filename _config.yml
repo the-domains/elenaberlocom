@@ -23,9 +23,6 @@ logo: >-
 name: elenaberlo.com
 url: 'http://elenaberlo.com'
 navigation:
-  - name: My Shop @OnceUponaPaper
-    url: 'https://www.onceuponapaper.net/collections/all-products'
-    type: external
   - name: Say Hello
     id: b31709fa-ce91-4dce-a7ed-30c61964a56b
     type: content
