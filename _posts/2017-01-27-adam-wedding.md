@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: modern watercolor ketubah commissioned to ElenaBerlo OnceUponaPaper
-dateModified: '2017-10-02T10:49:04.223Z'
-datePublished: '2017-10-02T10:49:05.291Z'
+dateModified: '2017-10-02T10:49:06.356Z'
+datePublished: '2017-10-02T10:49:07.133Z'
 title: Adam and Sally Four Seasons Ketubah
 author: []
 publisher:
