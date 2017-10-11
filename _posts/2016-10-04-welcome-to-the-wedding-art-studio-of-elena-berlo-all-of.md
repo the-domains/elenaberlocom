@@ -1,18 +1,17 @@
 ---
-datePublished: '2017-08-04T17:34:07.742Z'
+datePublished: '2017-10-11T08:37:07.894Z'
 sourcePath: _posts/2016-10-04-welcome-to-the-wedding-art-studio-of-elena-berlo-all-of.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-07-13T11:52:12.095Z'
+dateModified: '2017-10-11T08:37:06.740Z'
 title: ELENA BERLO
 publisher: {}
 description: >-
-  I love the sensibility of the paintbrush that stands out no matter what the
-  end medium is. I am inspired by travels, architecture, spring cherry blossoms,
-  seasons and nature, and I love translating my imagination on paper using
-  mainly watercolor and gouache. - Elena Berlo
+  My name is Elena, the creator of ElenaBerlo™ and OnceUponaPaper™, a husband
+  and wife team with a mutual passion for art, painting, printmaking and
+  illustration.
 starred: false
 datePublishedOriginal: '2017-08-04T17:34:07.742Z'
 url: elena-berlo/index.html
@@ -23,8 +22,17 @@ _type: Blurb
 
 ## Art Studio
 
-I love the sensibility of the paintbrush that stands out no matter what the end medium is. I am inspired by travels, architecture, spring cherry blossoms, seasons and nature, and I love translating my imagination on paper using mainly watercolor and gouache. - Elena Berlo
+My name is Elena, the creator of ElenaBerlo(tm) and OnceUponaPaper(tm), a husband and wife team with a mutual passion for art, painting, printmaking and illustration.
 
+We want to take a moment to thank everyone who put their faith in our artistic heart and hands. It is with your support this journey into customized artwork was made possible.
+
+We took small steps in giving our paintings a new purpose, each one specially requested by a new couple. And it all grew organically as we came to understand that capturing life's precious moments in art helps us make sense of our presence and connects us to the past, present and future, and to beautiful new people.
+
+Our artwork derives from our day to day experience. As an architect you always start with pencil on paper. You need to sketch your ideas and give form to many aspects of a building and it's surroundings. Many times your space planning drawings start looking like a cluster of basic geometric shapes following a structure. From there, our pattern paintings surfaced, especially the Trees of Life. It clearly suited our trees to be part of such an important moment in people's lives, as they are a symbol of new beginnings, shelter, support and endurance beyond our existence. So many stand now as a silent witness to the promises made and signed by the bride and groom on their handwritten and painted Ketubah.
+
+All of our ketubah, guest books and albums start as a painting and they will continue to do so as we love the sensibility of the paintbrush that stands out no matter what the end medium is. We are still the only ones in the field offering a Woodcut Ketubah and painted guestbooks, and we are adding calligraphy and gold leaf as a special detail. With so many products being customizable, the large majority are made in-house. We continue to use museum quality materials for our artwork and for all that is born from it.
+
+  
 Elena Berlo is now a full time mom blending a family life with her passion for fine arts and painting. With bachelors in Fine Arts and Architecture from the University of Bucharest, she continued her artistic education at Fashion Institute of Technology of NYC, and practiced architecture in well established NYC firms.
 
 ---
