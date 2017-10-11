@@ -1,17 +1,17 @@
 ---
-datePublished: '2017-10-11T08:37:07.894Z'
+datePublished: '2017-10-11T14:41:08.537Z'
 sourcePath: _posts/2016-10-04-welcome-to-the-wedding-art-studio-of-elena-berlo-all-of.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-10-11T08:37:06.740Z'
+dateModified: '2017-10-11T14:41:07.306Z'
 title: ELENA BERLO
 publisher: {}
 description: >-
-  My name is Elena, the creator of ElenaBerlo™ and OnceUponaPaper™, a husband
-  and wife team with a mutual passion for art, painting, printmaking and
-  illustration.
+  My name is Elena, the co-creator of ElenaBerlo™ and OnceUponaPaper™, and I
+  share with my husband and studio partner the passion for art, painting,
+  printmaking and illustration.
 starred: false
 datePublishedOriginal: '2017-08-04T17:34:07.742Z'
 url: elena-berlo/index.html
@@ -22,7 +22,7 @@ _type: Blurb
 
 ## Art Studio
 
-My name is Elena, the creator of ElenaBerlo(tm) and OnceUponaPaper(tm), a husband and wife team with a mutual passion for art, painting, printmaking and illustration.
+My name is Elena, the co-creator of ElenaBerlo(tm) and OnceUponaPaper(tm), and I share with my husband and studio partner the passion for art, painting, printmaking and illustration.
 
 We want to take a moment to thank everyone who put their faith in our artistic heart and hands. It is with your support this journey into customized artwork was made possible.
 
@@ -32,8 +32,9 @@ Our artwork derives from our day to day experience. As an architect you always s
 
 All of our ketubah, guest books and albums start as a painting and they will continue to do so as we love the sensibility of the paintbrush that stands out no matter what the end medium is. We are still the only ones in the field offering a Woodcut Ketubah and painted guestbooks, and we are adding calligraphy and gold leaf as a special detail. With so many products being customizable, the large majority are made in-house. We continue to use museum quality materials for our artwork and for all that is born from it.
 
-  
-Elena Berlo is now a full time mom blending a family life with her passion for fine arts and painting. With bachelors in Fine Arts and Architecture from the University of Bucharest, she continued her artistic education at Fashion Institute of Technology of NYC, and practiced architecture in well established NYC firms.
+---
+
+I am a full time painter blending the family life with my endeavour in fine arts. With a bachelors in Architecture from the University of Bucharest, I continued my artistic education at the Fashion Institute of Technology of NYC, and practiced architecture in well established NYC firms.
 
 ---
 
