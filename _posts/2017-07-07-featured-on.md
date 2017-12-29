@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'As seen in:'
-dateModified: '2017-12-29T13:49:05.789Z'
-datePublished: '2017-12-29T13:49:06.458Z'
+dateModified: '2017-12-29T13:49:06.505Z'
+datePublished: '2017-12-29T13:49:07.149Z'
 title: ''
 author: []
 publisher: {}
