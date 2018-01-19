@@ -18,13 +18,13 @@ app_links: []
 isBasedOnUrl: >-
   https://www.onceuponapaper.net/collections/new/products/coming-soon-this-first-married-christmas-cards-with-wedding-portrait
 title: Our first married Christmas together Ketubah print - Custom Wedding Portrait
-datePublished: '2017-11-10T14:20:12.116Z'
-dateModified: '2017-11-10T14:19:58.823Z'
-datePublishedOriginal: '2017-11-10T14:20:12.116Z'
+datePublished: '2018-01-19T14:08:48.478Z'
+dateModified: '2018-01-19T14:08:47.191Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-11-10-our-first-married-christmas-together-ketubah-print-custom.md
+starred: false
+datePublishedOriginal: '2017-11-10T14:20:12.116Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
