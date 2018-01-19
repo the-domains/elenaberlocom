@@ -18,13 +18,13 @@ app_links: []
 isBasedOnUrl: >-
   https://www.onceuponapaper.net/collections/new/products/happily-just-married-modern-ketubah-print-with-painted-couple-portraits
 title: Happily just married Modern Guest Book print - with Painted Couple Portraits
-datePublished: '2017-11-10T14:20:36.800Z'
-dateModified: '2017-11-10T14:20:21.379Z'
-datePublishedOriginal: '2017-11-10T14:20:36.800Z'
+datePublished: '2018-01-19T14:08:48.530Z'
+dateModified: '2018-01-19T14:08:47.191Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-11-10-happily-just-married-modern-guest-book-print-with-painted.md
+starred: false
+datePublishedOriginal: '2017-11-10T14:20:36.800Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
