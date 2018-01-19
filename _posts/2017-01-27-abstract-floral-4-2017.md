@@ -1,23 +1,23 @@
 ---
 inFeed: true
-description: $100.00 - Sold Out
-dateModified: '2017-01-27T21:56:52.892Z'
-datePublished: '2017-01-27T21:56:53.443Z'
+description: Sold Out
+dateModified: '2018-01-19T14:08:47.191Z'
+datePublished: '2018-01-19T14:08:48.542Z'
 title: 'ABSTRACT FLORAL #4, 2017'
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-01-27-abstract-floral-4-2017.md
 starred: false
 datePublishedOriginal: '2017-01-27T21:56:51.064Z'
-sourcePath: _posts/2017-01-27-abstract-floral-4-2017.md
 url: abstract-floral-4-2017/index.html
 _type: Article
 
 ---
 # ABSTRACT FLORAL \#4, 2017
 
-$100.00 - Sold Out
+Sold Out
 
 by**Elena Berlo**
 
