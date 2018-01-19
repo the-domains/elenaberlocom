@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: modern watercolor ketubah commissioned to ElenaBerlo OnceUponaPaper
-dateModified: '2017-10-02T10:58:07.469Z'
-datePublished: '2017-10-02T10:58:08.260Z'
+dateModified: '2018-01-19T14:08:47.191Z'
+datePublished: '2018-01-19T14:08:48.522Z'
 title: Adam and Sally Four Seasons Ketubah
 author:
   - name: 'photo: Creation Studios, Photographer in Memphis, Tennessee'
