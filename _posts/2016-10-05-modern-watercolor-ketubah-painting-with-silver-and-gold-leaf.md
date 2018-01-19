@@ -1,12 +1,12 @@
 ---
-datePublished: '2017-01-27T22:02:33.682Z'
+datePublished: '2018-01-19T14:08:48.694Z'
 sourcePath: >-
   _posts/2016-10-05-modern-watercolor-ketubah-painting-with-silver-and-gold-leaf.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-01-27T22:02:32.724Z'
+dateModified: '2018-01-19T14:08:47.191Z'
 title: Calligraphy Watercolor Ketubah painting with silver and gold leaf accents
 publisher: {}
 description: '- by Elena Berlo'
@@ -37,12 +37,12 @@ $1200.00 - Please contact me if you fancy one.
 ♥ Personalization: names, date, location, layout, colours
 
 ♥ Sample of paper for testing your favorite ink on
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d834a2d6-9167-4d1d-b672-8b2af0bceb34.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/58038468-d3b5-4269-a863-89190264f622.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/877737e4-6c5a-4b2a-8073-17d114086295.jpg)
 
 ---
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/58038468-d3b5-4269-a863-89190264f622.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/877737e4-6c5a-4b2a-8073-17d114086295.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d834a2d6-9167-4d1d-b672-8b2af0bceb34.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ccb79beb-6382-4ffa-afa2-7197f547e0c9.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9eeee666-f1a3-408d-9d13-57d64686ccdc.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/49d2a060-4151-41ca-836f-b137168d9adc.jpg)
