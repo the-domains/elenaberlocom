@@ -8,16 +8,16 @@ description: >-
   back to light, as some alchemical stories would describe. In any measure, it
   feels righteous and holy to us, and we can’t stop by putting all our love and
   attention into it.
-dateModified: '2018-01-22T15:18:47.008Z'
-datePublished: '2018-01-22T15:18:47.705Z'
+dateModified: '2018-01-22T15:19:07.086Z'
+datePublished: '2018-01-22T15:19:08.523Z'
 title: 'Watercolor flower studies for Flower Garlands Ketubah '
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2018-01-22-watercolor-flower-studies-for-flower-garlands-ketubah.md
 starred: false
 datePublishedOriginal: '2018-01-22T15:18:47.705Z'
-sourcePath: _posts/2018-01-22-watercolor-flower-studies-for-flower-garlands-ketubah.md
 url: watercolor-flower-studies-for-flower-garlands-ketubah/index.html
 _type: Article
 
