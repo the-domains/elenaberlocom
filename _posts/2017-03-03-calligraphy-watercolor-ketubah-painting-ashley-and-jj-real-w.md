@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: '"We absolutely love it!" - Ashley'
-dateModified: '2018-01-19T14:08:47.191Z'
-datePublished: '2018-01-19T14:08:48.521Z'
+dateModified: '2018-01-22T15:19:07.086Z'
+datePublished: '2018-01-22T15:19:08.562Z'
 title: CALLIGRAPHY WATERCOLOR KETUBAH PAINTING - ASHLEY & JJ REAL WEDDING
 author: []
 publisher: {}
