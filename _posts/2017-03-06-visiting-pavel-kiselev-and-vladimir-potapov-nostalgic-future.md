@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Visiting Pavel Kiselev & Vladimir Potapov - Nostalgic Future show - at H’Art
   Gallery
-dateModified: '2018-01-19T14:08:47.191Z'
-datePublished: '2018-01-19T14:08:48.532Z'
+dateModified: '2018-01-22T15:19:07.086Z'
+datePublished: '2018-01-22T15:19:08.580Z'
 title: ''
 author: []
 publisher: {}
