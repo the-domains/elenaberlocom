@@ -4,8 +4,8 @@ description: >-
   I love this project for the happy couple Lara and Matt, as we had to make a
   matching ketubah and wedding album enriched with gold leaf accents. You can
   purchase a similar set here: GOLD KETUBAH AND PAINTED ALBUM MATCHING SET
-dateModified: '2018-01-19T14:08:47.191Z'
-datePublished: '2018-01-19T14:08:48.522Z'
+dateModified: '2018-01-22T15:19:07.086Z'
+datePublished: '2018-01-22T15:19:08.563Z'
 title: Gold Leaf Accents Ketubah and matching watercolor wedding Album
 author: []
 publisher: {}
