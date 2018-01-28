@@ -1,17 +1,22 @@
 ---
-datePublished: '2017-10-11T14:44:58.636Z'
+datePublished: '2018-01-28T13:23:37.659Z'
 sourcePath: _posts/2016-10-04-welcome-to-the-wedding-art-studio-of-elena-berlo-all-of.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-10-11T14:44:57.727Z'
+dateModified: '2018-01-28T13:23:36.697Z'
 title: ELENA BERLO
 publisher: {}
 description: >-
   My name is Elena, the co-creator of ElenaBerlo™ and OnceUponaPaper™, and I
   share with my husband and studio partner the passion for art, painting,
-  printmaking and illustration.
+  printmaking and illustration. I am a full time painter blending the family
+  life with my endeavour in fine arts. With a bachelors in Architecture from the
+  University of Bucharest, I continued my artistic education at the Fashion
+  Institute of Technology of NYC, and practiced architecture in well established
+  NYC firms. My artwork is in private collections throughout the US, UK, Canada,
+  Australia, Europe, Romania and the world.
 starred: false
 datePublishedOriginal: '2017-08-04T17:34:07.742Z'
 url: elena-berlo/index.html
@@ -22,17 +27,9 @@ _type: Blurb
 
 ## Art Studio
 
-My name is Elena, the co-creator of ElenaBerlo(tm) and OnceUponaPaper(tm), and I share with my husband and studio partner the passion for art, painting, printmaking and illustration.
+My name is Elena, the co-creator of ElenaBerlo(tm) and OnceUponaPaper(tm), and I share with my husband and studio partner the passion for art, painting, printmaking and illustration. I am a full time painter blending the family life with my endeavour in fine arts. With a bachelors in Architecture from the University of Bucharest, I continued my artistic education at the Fashion Institute of Technology of NYC, and practiced architecture in well established NYC firms. My artwork is in private collections throughout the US, UK, Canada, Australia, Europe, Romania and the world.
 
-We want to take a moment to thank everyone who put their faith in our artistic heart and hands. It is with your support this journey into customized artwork was made possible.
-
-We took small steps in giving our paintings a new purpose, each one specially requested by a new couple. And it all grew organically as we came to understand that capturing life's precious moments in art helps us make sense of our presence and connects us to the past, present and future, and to beautiful new people.
-
-Our artwork derives from our day to day experience. As an architect you always start with pencil on paper. You need to sketch your ideas and give form to many aspects of a building and it's surroundings. Many times your space planning drawings start looking like a cluster of basic geometric shapes following a structure. From there, our pattern paintings surfaced, especially the Trees of Life. It clearly suited our trees to be part of such an important moment in people's lives, as they are a symbol of new beginnings, shelter, support and endurance beyond our existence. So many stand now as a silent witness to the promises made and signed by the bride and groom on their handwritten and painted Ketubah.
-
-All of our ketubah, guest books and albums start as a painting and they will continue to do so as we love the sensibility of the paintbrush that stands out no matter what the end medium is. We are still the only ones in the field offering a Woodcut Ketubah and painted guestbooks, and we are adding calligraphy and gold leaf as a special detail. With so many products being customizable, the large majority are made in-house. We continue to use museum quality materials for our artwork and for all that is born from it.
-
-I am a full time painter blending the family life with my endeavour in fine arts. With a bachelors in Architecture from the University of Bucharest, I continued my artistic education at the Fashion Institute of Technology of NYC, and practiced architecture in well established NYC firms.
+I want to take a moment to thank everyone who put their faith in my artistic heart and hands. It is with your support this journey into customized artwork is made possible. We took small steps in giving our paintings a new purpose, each one specially requested by a new couple. And it all grew organically as we came to understand that capturing life's precious moments in art helps us make sense of our presence and connects us to the past, present and future, and to beautiful new people. All of our ketubah, guest books and albums start as a painting and they will continue to do so as we love the sensibility of the paintbrush that stands out no matter what the end medium is. We are still the only ones in the field offering a Woodcut Ketubah and painted guest books, and we are adding calligraphy and gold leaf as a special detail. With so many products being customizable, the large majority are made in-house. We continue to use museum quality materials for our artwork and for all that is born from it.
 
 ---
 
