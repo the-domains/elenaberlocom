@@ -38,9 +38,6 @@ title: ''
 content: []
 description: ''
 purpose:
-  - type: contact
-    url: 'mailto:commission@elenaberlo.com'
-    label: convo me for a commission
   - type: external
     url: 'https://www.onceuponapaper.net/'
     label: visit my shop @www.OnceUponaPaper.net
