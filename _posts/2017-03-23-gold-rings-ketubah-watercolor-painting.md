@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   boho art, watercolor painting, gold leaf, tree of life, twig ring gold,
   chuppah, calligraphy
-dateModified: '2018-01-22T15:19:07.086Z'
-datePublished: '2018-01-22T15:19:08.601Z'
+dateModified: '2018-03-30T10:23:30.492Z'
+datePublished: '2018-03-30T10:23:31.522Z'
 title: Gold Rings Ketubah watercolor painting
 author: []
 publisher: {}
