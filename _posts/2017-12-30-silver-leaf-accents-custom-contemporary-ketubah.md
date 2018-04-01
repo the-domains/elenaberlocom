@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Purchase this ketubah print at www.onceuponapaper.net
-dateModified: '2018-03-30T10:23:30.492Z'
-datePublished: '2018-03-30T10:23:31.594Z'
+dateModified: '2018-04-01T16:12:59.007Z'
+datePublished: '2018-04-01T16:13:01.294Z'
 title: Silver Leaf Accents Custom Contemporary Ketubah
 author: []
 publisher: {}
