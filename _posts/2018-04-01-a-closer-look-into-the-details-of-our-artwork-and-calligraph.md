@@ -27,15 +27,15 @@ app_links:
     type: android
 isBasedOnUrl: 'https://www.instagram.com/p/Bg3IrYcg8Ot/'
 title: "A closer look into the details of our artwork and calligraphy \uD83C\uDF31KETUBAH ARTWORK COMMISSION - The Four Seasons Tree of Life with gold leaf details. More real weddings at www.OnceUponaPaper.net #weddingideas #weddinginspo #wedding #weddinginspiration #weddingtree #weddingketubah #ketubah #paintedketubah #ketubahtree #jewishwedding #jewish #hebrew #jewishtradition #treeoflife #treehugger #watercolor #watercolorwedding #watercolorpainting #flowertree #customize #callygraphy #brideandgroom #fourseasons #artwork #gold #goldfoil #goldleaf #onceuponapaper #creativewedding #elenaberlo"
-datePublished: '2018-04-01T16:12:17.659Z'
-dateModified: '2018-04-01T16:12:06.608Z'
-datePublishedOriginal: '2018-04-01T16:12:17.659Z'
+datePublished: '2018-04-01T16:13:01.211Z'
+dateModified: '2018-04-01T16:12:59.007Z'
 description: ''
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2018-04-01-a-closer-look-into-the-details-of-our-artwork-and-calligraph.md
+starred: false
+datePublishedOriginal: '2018-04-01T16:12:17.659Z'
 _type: MediaObject
 _context: 'http://schema.org'
 
