@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Sold Out
-dateModified: '2018-03-30T10:23:30.492Z'
-datePublished: '2018-03-30T10:23:31.677Z'
+dateModified: '2018-04-01T16:12:59.007Z'
+datePublished: '2018-04-01T16:13:01.327Z'
 title: 'ABSTRACT FLORAL #2, 2017'
 author: []
 publisher: {}
