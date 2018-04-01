@@ -1,18 +1,18 @@
 ---
 inFeed: true
 description: Modern Custom Ketubah & Watercolour Paintings
-dateModified: '2018-02-16T13:23:39.434Z'
-datePublished: '2018-02-16T13:23:40.359Z'
+dateModified: '2018-04-01T16:12:59.007Z'
+datePublished: '2018-04-01T16:13:01.210Z'
 title: Elena Berlo
 author: []
 publisher: {}
 via: {}
+isBasedOnUrl: 'https://www.onceuponapaper.net/pages/as-seen-in'
 sourcePath: _posts/2017-07-07-featured-on.md
-hasPage: true
+hasPage: false
 starred: false
 datePublishedOriginal: '2017-08-04T17:44:17.466Z'
-url: featured-on/index.html
-_type: Article
+_type: MediaObject
 
 ---
 # Elena Berlo
