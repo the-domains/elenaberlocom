@@ -27,14 +27,14 @@ app_links:
     type: android
 isBasedOnUrl: 'https://www.instagram.com/p/Bgo5hIPgo6o/'
 title: "Ready to go... \uD83C\uDF3FGOLD LEAF details on the BELOVED GARDEN KETUBAH PAINTING. All custom requests are welcome at www.OnceUponaPaper.net #weddingideas #wedding #weddinginspiration #weddingtree #weddingketubah #ketubah #paintedketubah #ketubahtree #jewishwedding #jewish #jewishtradition #treeoflife #watercolor #watercolortree #watercolorwedding #watercolorpainting #flowertree #gold #goldleaf #goldfoil #studiolife #atelier #onceuponapaper #worktime #me #happytime #happymoment #ketubahart #ketubahdesign #wayoflife"
-datePublished: '2018-04-01T16:12:24.850Z'
-dateModified: '2018-04-01T16:12:15.368Z'
-datePublishedOriginal: '2018-04-01T16:12:24.850Z'
+datePublished: '2018-04-01T16:13:01.213Z'
+dateModified: '2018-04-01T16:12:59.007Z'
 description: ''
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2018-04-01-ready-to-go-gold-leaf-details-on-the-beloved-garden-ket.md
+starred: false
+datePublishedOriginal: '2018-04-01T16:12:24.850Z'
 _type: MediaObject
 _context: 'http://schema.org'
 
