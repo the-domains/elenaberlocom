@@ -8,8 +8,8 @@ description: >-
   back to light, as some alchemical stories would describe. In any measure, it
   feels righteous and holy to us, and we can’t stop by putting all our love and
   attention into it.
-dateModified: '2018-04-01T16:12:59.007Z'
-datePublished: '2018-04-01T16:13:01.113Z'
+dateModified: '2018-07-08T12:21:37.583Z'
+datePublished: '2018-07-08T12:21:39.699Z'
 title: Watercolor flower studies for Flower Garlands Ketubah
 author: []
 publisher: {}
