@@ -1,12 +1,12 @@
 ---
-datePublished: '2018-04-01T16:13:01.346Z'
+datePublished: '2018-07-08T12:21:39.755Z'
 sourcePath: >-
   _posts/2016-10-05-modern-watercolor-ketubah-painting-with-silver-and-gold-leaf.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2018-04-01T16:12:59.007Z'
+dateModified: '2018-07-08T12:21:37.583Z'
 title: Calligraphy Watercolor Ketubah painting with silver and gold leaf accents
 publisher: {}
 description: '- by Elena Berlo'
