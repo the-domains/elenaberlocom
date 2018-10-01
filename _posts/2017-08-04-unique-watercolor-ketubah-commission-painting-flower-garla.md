@@ -19,8 +19,8 @@ isBasedOnUrl: >-
 title: >-
   Unique Watercolor Ketubah Commission painting - Flower garlands - judaica,
   jewish marriage ceremony
-datePublished: '2018-07-08T12:21:39.260Z'
-dateModified: '2018-07-08T12:21:37.583Z'
+datePublished: '2018-10-01T15:37:30.428Z'
+dateModified: '2018-10-01T15:37:28.337Z'
 via: {}
 inFeed: true
 sourcePath: >-
