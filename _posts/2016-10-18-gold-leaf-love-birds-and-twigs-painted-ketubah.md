@@ -1,11 +1,11 @@
 ---
-datePublished: '2018-07-08T12:21:39.701Z'
+datePublished: '2018-10-01T15:37:30.628Z'
 sourcePath: _posts/2016-10-18-gold-leaf-love-birds-and-twigs-painted-ketubah.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2018-07-08T12:21:37.583Z'
+dateModified: '2018-10-01T15:37:28.337Z'
 title: Gold Leaf Love Birds and Twigs Painted Ketubah
 publisher: {}
 description: '- by Elena Berlo'
