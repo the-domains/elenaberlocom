@@ -64,8 +64,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/la0FyvVzViE'
 title: GOLD FOIL details on the TREE OF LIFE KETUBAH PAINTING
-datePublished: '2018-07-08T12:21:39.638Z'
-dateModified: '2018-07-08T12:21:37.583Z'
+datePublished: '2018-10-01T15:37:30.389Z'
+dateModified: '2018-10-01T15:37:28.337Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-11-10-gold-foil-details-on-the-tree-of-life-ketubah-painting.md
