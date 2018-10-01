@@ -1,10 +1,10 @@
 ---
-datePublished: '2018-07-08T12:21:39.750Z'
+datePublished: '2018-10-01T15:37:30.649Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2018-07-08T12:21:37.583Z'
+dateModified: '2018-10-01T15:37:28.337Z'
 title: >-
   Watercolor KETUBAH Commission Painting - Gold Leaf accents Entangled Trees -
   FOUR SEASONS
