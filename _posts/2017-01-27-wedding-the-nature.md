@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Sinaia, Carpati'
-dateModified: '2018-07-08T12:21:37.583Z'
-datePublished: '2018-07-08T12:21:39.732Z'
+dateModified: '2018-10-01T15:37:28.337Z'
+datePublished: '2018-10-01T15:37:30.618Z'
 title: We had a beautiful sunny day on top of the Earth
 author: []
 publisher: {}
