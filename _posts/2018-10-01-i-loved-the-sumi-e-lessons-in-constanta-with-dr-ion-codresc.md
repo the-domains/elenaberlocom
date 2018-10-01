@@ -1,21 +1,17 @@
 ---
 inFeed: true
-description: >-
-  Studying ink and brush painting with Renowned Haiga Artist and Professor Ion
-  Codrescu. The Japanese artform of haiga painting and sumi-e focuses on the
-  creation of imagery to compliment a haiku poem.  Materials: brushes, ink and
-  rice paper.
-dateModified: '2018-10-01T15:37:04.433Z'
-datePublished: '2018-10-01T15:37:05.552Z'
+description: "Studying ink and brush painting with Renowned Haiga Artist and Professor Ion Codrescu. The Japanese artform of haiga painting and sumi-e focuses on the creation of imagery to compliment a haiku poem.\_ Materials: brushes, ink and rice paper."
+dateModified: '2018-10-01T15:37:28.337Z'
+datePublished: '2018-10-01T15:37:30.430Z'
 title: I loved the Sumi-e lessons in Constanta with Dr. Ion Codrescu
 author: []
 publisher: {}
 via: {}
 hasPage: true
-starred: false
-datePublishedOriginal: '2018-10-01T15:37:05.552Z'
 sourcePath: >-
   _posts/2018-10-01-i-loved-the-sumi-e-lessons-in-constanta-with-dr-ion-codresc.md
+starred: false
+datePublishedOriginal: '2018-10-01T15:37:05.552Z'
 url: i-loved-the-sumi-e-lessons-in-constanta-with-dr-ion-codresc/index.html
 _type: Article
 
