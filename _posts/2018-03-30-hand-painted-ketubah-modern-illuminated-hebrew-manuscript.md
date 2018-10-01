@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: heritage gilded manuscript - by ElenaBerlo
-dateModified: '2018-07-08T12:21:37.583Z'
-datePublished: '2018-07-08T12:21:39.519Z'
+dateModified: '2018-10-01T15:37:28.337Z'
+datePublished: '2018-10-01T15:37:30.536Z'
 title: Hand Painted Ketubah - Modern Illuminated hebrew manuscript
 author: []
 publisher: {}
