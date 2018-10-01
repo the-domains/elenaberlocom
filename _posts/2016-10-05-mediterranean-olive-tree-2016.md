@@ -1,10 +1,10 @@
 ---
-datePublished: '2018-07-08T12:21:39.518Z'
+datePublished: '2018-10-01T15:37:30.429Z'
 sourcePath: _posts/2016-10-05-mediterranean-olive-tree-2016.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2018-07-08T12:21:37.583Z'
+dateModified: '2018-10-01T15:37:28.337Z'
 title: 'MEDITERRANEAN OLIVE TREE, 2016'
 publisher: {}
 description: $400.00 - Sold Out
