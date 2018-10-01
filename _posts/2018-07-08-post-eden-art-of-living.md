@@ -23,8 +23,8 @@ description: >-
   Eden, collage, A4चक्र कल्प Chakra Kalpa, collage, A4Return to the Land of
   Youth, collage, A3A dream in the Garden, collage, A2The 4 rivers from the
   Garden, collage on kraft tubes
-dateModified: '2018-07-31T12:22:58.431Z'
-datePublished: '2018-07-31T12:23:00.254Z'
+dateModified: '2018-10-01T15:37:28.337Z'
+datePublished: '2018-10-01T15:37:30.618Z'
 title: Post Eden Art of Living
 author: []
 publisher: {}
