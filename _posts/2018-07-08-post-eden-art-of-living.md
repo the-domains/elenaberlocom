@@ -11,20 +11,9 @@ description: >-
   Garden of Eden, Gan Eden גַּן עֵדֶן in Aramaic, Hebrew. At the base there are
   two flights as I call them: one is the flight from yourself, the tree of the
   knowledge of good and evil, and the second is the desire to return, or to find
-  yourself, the Garden, and the Tree of Life.The collages -a map of deeply
-  embedded gene memories brought to surface in form of fantasy and dreams - are
-  using various process and materials from both realms, the natural like wood,
-  fabric, watercolours, oils and paper, symbolizing the return to nature, and
-  synthetic - the inhale of the world, the techno (=man made) world, like
-  plastic, foam, polymers, acrylics, metal and raisins.From the series:Recircle
-  of Garden of Eden, collage, A4Laputa in one complete revolution, collage,
-  A4Tikkun olam, collage, A4עֵץ הַדַּעַת טוֹב וָרָע‬ [Etz ha-daʿat tov wa-raʿ]
-  The Tree of Knowledge of Good and Evil, collage, A4Restarting of the Garden of
-  Eden, collage, A4चक्र कल्प Chakra Kalpa, collage, A4Return to the Land of
-  Youth, collage, A3A dream in the Garden, collage, A2The 4 rivers from the
-  Garden, collage on kraft tubes
-dateModified: '2018-10-01T15:37:28.337Z'
-datePublished: '2018-10-01T15:37:30.618Z'
+  yourself, the Garden, and the Tree of Life.
+dateModified: '2018-10-02T09:34:02.686Z'
+datePublished: '2018-10-02T09:34:04.329Z'
 title: Post Eden Art of Living
 author: []
 publisher: {}
@@ -42,7 +31,11 @@ _type: Article
 Group Exhibition Vernisaj at Contempora, Friday 9 March 2018  
 Thanks to Corina Laura Nae [@contempora][0]  
 Collages: monoprint, metallic gold and silver leaf, crayon, coloured pencil, ink, print reproductions of original gouache and watercolour paintings, on paper, wood and craft tubes.  
-The theme of the exhibition is Post Eden art of living, the project being a collaboration with [Genu Berlo][1]. The exhibit is constructing, conceptually and especially emotionally-sensorially, on two well known archetypes, Adam and Eve and The Garden of Eden, **Gan Eden** גַּן עֵדֶן in Aramaic, Hebrew. At the base there are two flights as I call them: one is the flight from yourself, the tree of the knowledge of good and evil, and the second is the desire to return, or to find yourself, the Garden, and the Tree of Life.  
+The theme of the exhibition is Post Eden art of living, the project being a collaboration with [Genu Berlo][1]. The exhibit is constructing, conceptually and especially emotionally-sensorially, on two well known archetypes, Adam and Eve and The Garden of Eden, **Gan Eden** גַּן עֵדֶן in Aramaic, Hebrew. At the base there are two flights as I call them: one is the flight from yourself, the tree of the knowledge of good and evil, and the second is the desire to return, or to find yourself, the Garden, and the Tree of Life.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6159428-3dda-4083-9d69-d3a42c99ab97.jpg)
+
+---
+
 The collages -a map of deeply embedded gene memories brought to surface in form of fantasy and dreams - are using various process and materials from both realms, the natural like wood, fabric, watercolours, oils and paper, symbolizing the return to nature, and synthetic - the inhale of the world, the techno (=man made) world, like plastic, foam, polymers, acrylics, metal and raisins.  
 From the series:  
 Recircle of Garden of Eden, collage, A4  
@@ -61,7 +54,6 @@ The 4 rivers from the Garden, collage on kraft tubes
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/951cdcec-696b-4762-843c-4d24137d87e9.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b8bd8d366abb494f3dae356407ee67c7b6f44c78.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5c955f5-1b54-41ca-99e9-efef5d21c528.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6159428-3dda-4083-9d69-d3a42c99ab97.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/34b8f024-6d3c-4423-b8dd-db211a383075.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/380a5e3e-d0b2-4660-bf83-f5012ad5092b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/38ef51f8-8108-4edb-9280-4d20dc9e88ef.jpg)
@@ -79,8 +71,8 @@ The 4 rivers from the Garden, collage on kraft tubes
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/59804ff8-8284-4046-bb7d-4e770add33f6.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/20fbd515-bc65-46f9-94a6-d5688f1ed149.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/95c8c031-b02f-4aad-96dc-8f9417910c13.jpg)
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/d47e4be43bd48743036e5d52da8b19c1/croprotate.jpg?cropheight=3264&cropwidth=2448&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F9726f37e-aaf5-4c51-92bb-5923b9c4c7ed.jpg&x=0&y=0)
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/336e72c2fab37f5893cfd31e4ee0c259/croprotate.jpg?cropheight=3264&cropwidth=2448&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fb3abdbf2-27cb-4ae8-8e64-2f67dfe087cd.jpg&x=0&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c58ab819900e8586618733dfe26e8d7892ef287a.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e3897f88b5cd7bac5cf68237f72f9481896fd3df.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fc7ec22-a0ac-4e8c-a249-34b98ef3903e.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7d974a6f-9264-4d57-9cbd-637b12f35f11.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f2c6e7a-11f1-419f-807f-bde1f435fe38.jpg)
